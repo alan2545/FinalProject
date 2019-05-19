@@ -1,0 +1,59 @@
+.border1{
+    border: black solid 2px;
+}
+
+img{
+    float: right;
+    margin-left: 15px;
+}
+
+#title{
+    padding-top: 30px;
+}
+
+#sidebar{
+    padding-top: 30px;
+    margin-left: 50px;
+    position: sticky;
+}
+.jumbotron{
+    margin-top: 20px;
+}
+
+footer{
+    background: grey;
+}
+
+.fa-facebook{
+    color: #3b5998;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 40px;
+
+}
+.fa-twitter{
+    color: #00aced;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 40px;
+}
+.fa-instagram{
+    color: #517fa4;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 40px;
+}
+.fa-youtube{
+    color: #bb0000;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 40px;
+}
+
+
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-instagram:hover,
+.fa-youtube:hover{
+    color: #6c757d;
+}
